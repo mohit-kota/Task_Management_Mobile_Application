@@ -1,7 +1,5 @@
 # Task_Management_Mobile_Application
 
-# Task Management Application for South Central Railways
-
 ## Introduction
 
 This project is a task management application developed for South Central Railways, serving over 5000 users. The application aims to streamline task assignment, progress tracking, and communication between officers, ensuring efficient and seamless railway operations.
