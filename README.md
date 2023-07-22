@@ -59,10 +59,8 @@ Feel free to visit our website to explore more about the project and our team.
 
 
 ![WhatsApp Image 2023-07-22 at 08 58 56](https://github.com/mohit-kota/Task_Management_Mobile_Application/assets/96908137/1c7fce13-3fbe-4d18-866f-8f9c1d8ea5c0)
-
-
-![WhatsApp Image 2023-07-22 at 08 58 56](https://github.com/mohit-kota/Task_Management_Mobile_Application/assets/96908137/fe16b67b-996c-4f5d-a6da-5d1f76d18e91)
 ![WhatsApp Image 2023-07-22 at 08 58 56](https://github.com/mohit-kota/Task_Management_Mobile_Application/assets/96908137/beba0a37-8bc2-41c2-b249-b89716f9504a)
-
+![WhatsApp Image 2023-07-22 at 08 58 56](https://github.com/mohit-kota/Task_Management_Mobile_Application/assets/96908137/fe16b67b-996c-4f5d-a6da-5d1f76d18e91)
 ![WhatsApp Image 2023-07-22 at 08 58 56](https://github.com/mohit-kota/Task_Management_Mobile_Application/assets/96908137/f123923c-0e78-4a4f-9edd-d579e483ba50)
-
+![WhatsApp Image 2023-07-22 at 08 58 57](https://github.com/mohit-kota/Task_Management_Mobile_Application/assets/96908137/c81f7d6c-15bc-4ca9-bf56-6ab232fbdb5e)
+![WhatsApp Image 2023-07-22 at 09 00 42](https://github.com/mohit-kota/Task_Management_Mobile_Application/assets/96908137/077b258d-e6bd-4532-9b5a-bb2dab764b76)
